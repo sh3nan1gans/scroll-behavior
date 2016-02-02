@@ -28,4 +28,4 @@ node_modules
 
 # Transpiled code
 /es6
-/lib
+#/lib
